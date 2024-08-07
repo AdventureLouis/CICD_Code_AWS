@@ -5,4 +5,4 @@
 # rm -r /var/www/html/*
 
 # This command will ignore .gitignore file
-rsync -av --exclude='.gitignore' /source/ /destination/
+rsync -av --exclude='.gitignore' #/source/ /destination/
