@@ -1,9 +1,11 @@
 # CICD_in_AWS
+This repo is about implementing CI/CD in Development and Production multi environments
 
-![CICD_Architecture](https://github.com/user-attachments/assets/d0c98d1a-42e8-4c86-b6e6-abb56b8cff9b)
+![Multi_Environment_Architecture](https://github.com/user-attachments/assets/3a5bb3a0-17e2-4c06-b71d-8a21eadfe728)
 
 
-In this project I will be deploying application in production and devlopemnt  multi environment using CICD 
+
+
 ## Resources used for this project includes:
 - EC2 
 - CodeDeploy
