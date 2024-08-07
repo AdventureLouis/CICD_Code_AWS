@@ -3,3 +3,10 @@ os:  linux
 files:  
   - source:  /
     destination:  /var/www/html
+
+
+hooks:
+  BeforeInstall:
+    -location:  scripts/remove_dir.sh
+    timeout: 300
+    runas:  root
