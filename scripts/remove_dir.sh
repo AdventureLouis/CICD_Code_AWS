@@ -5,4 +5,4 @@
 # rm -r /var/www/html/*
 
 # This command will remove .gitignore file
-rm /var/www/html/.gitignore"
+rm /var/www/html/.gitignore
