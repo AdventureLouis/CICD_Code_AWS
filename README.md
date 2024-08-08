@@ -7,7 +7,13 @@ This repo is about implementing CI/CD in Development and Production multi enviro
 
 
 ## Resources used for this project includes:
-- EC2 
+- EC2
+- Github repo
 - CodeDeploy
 - CodePipeline
 - Deployment Group
+
+Below is a video demonstration of my completed CICD pipepline  in AWS
+
+https://github.com/user-attachments/assets/94fc0e44-8fed-417c-9dde-466bcabaf622
+
