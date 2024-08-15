@@ -8,6 +8,7 @@ This repo is about implementing CI/CD in Development and Production multi enviro
 
 ## Resources used for this project includes:
 - EC2
+- IAM Permission
 - Github repo
 - CodeDeploy
 - CodePipeline
